@@ -1,0 +1,32 @@
+# Mac
+.DS_store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fitbit export
+MyFitbitData.zip
+user-profile/
+
+# Filter out unused datatypes
+altitude*
+badge.json
+calories*
+demographic_vo2_max*
+distance*
+exercise*
+food_logs*
+heart_rate*
+height*
+lightly_active_minutes*
+moderately_active_minutes*
+resting_heart_rate*
+run_vo2_max*
+sedentary_minutes*
+sleep
+steps*
+swim_lengths_data*
+time_in_heart_rate_zones*
+very_active_minutes*
+water_logs*
+weight*
